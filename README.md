@@ -4,7 +4,7 @@ The website [Early Christian Writings](https://www.earlychristianwritings.com/) 
 
 ### How To Use
 
-Run ```python3 visualizer.py``` in your terminal and then open http://127.0.0.1:8050/ in your browser.
+Run ```python3 visualizer.py``` in your terminal and then open http://127.0.0.1:8050/ in your browser. If you want to see the text, click the label! Also note that the labels on the side might not be showing everything if you have a lot of texts.
 
 ### Version Controls
 
