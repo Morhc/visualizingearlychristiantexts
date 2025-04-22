@@ -14,8 +14,8 @@ Epistle to the Hebrews,50,95,New Testament,General Epistles,https://www.earlychr
 Didache,50,120,Apocrypha,Apostolic Fathers,https://www.earlychristianwritings.com/didache.html
 Gospel of Thomas,50,140,Apocrypha,Gospels,https://www.earlychristianwritings.com/thomas.html
 Oxyrhynchus 1224 Gospel,50,140,Apocrypha,Gospel Fragments,https://www.earlychristianwritings.com/oxyrhynchus1224.html
-Apocalypse of Adam,50,150,Gnostics,Apocalypses,https://www.earlychristianwritings.com/apocalypseadam.html
-Eugnostos the Blessed,50,150,Gnostics,Other Nag Hammadi,https://www.earlychristianwritings.com/eugnostos.html
+Apocalypses of Adam,50,150,Gnostics,Apocalypses,https://www.earlychristianwritings.com/apocalypseadam.html
+Eugnostos the Blessed,50,150,Gnostics,Additional Nag Hammadi,https://www.earlychristianwritings.com/eugnostos.html
 Sophia of Jesus Christ,50,200,Gnostics,Dialogues with Jesus,https://www.earlychristianwritings.com/sophia.html
 Gospel of Mark,65,80,New Testament,Gospels,https://www.earlychristianwritings.com/mark.html
 Epistle of James,70,100,New Testament,General Epistles,https://www.earlychristianwritings.com/james.html
@@ -46,7 +46,7 @@ Flavius Josephus,93,93,Other,Pagan and Jewish,https://www.earlychristianwritings
 1 Timothy,100,150,New Testament,Pseudonymous Epistles of Paul,https://www.earlychristianwritings.com/1timothy.html
 2 Timothy,100,150,New Testament,Pseudonymous Epistles of Paul,https://www.earlychristianwritings.com/2timothy.html
 Titus,100,150,New Testament,Pseudonymous Epistles of Paul,https://www.earlychristianwritings.com/titus.html
-Apocalypse of Peter,100,150,Apocrypha,Apocalypses,https://www.earlychristianwritings.com/apocalypsepeter.html
+Apocalypses of Peter,100,150,Apocrypha,Apocalypses,https://www.earlychristianwritings.com/apocalypsepeter.html
 Secret Book of James,100,150,Gnostics,Dialogues with Jesus,https://www.earlychristianwritings.com/secretjames.html
 Preaching of Peter,100,150,Apocrypha,Apostolic Acts,https://www.earlychristianwritings.com/preachingpeter.html
 Gospel of the Ebionites,100,160,Apocrypha,Gospel Fragments,https://www.earlychristianwritings.com/gospelebionites.html
@@ -55,7 +55,7 @@ Shepherd of Hermas,100,160,Church Fathers,Apostolic Fathers,https://www.earlychr
 2 Peter,100,160,New Testament,General Epistles,https://www.earlychristianwritings.com/2peter.html
 Odes of Solomon,100,200,Other,Jewish/Christian,https://www.earlychristianwritings.com/odes.html
 Gospel of Eve,100,200,Gnostics,Quoted Authors,https://www.earlychristianwritings.com/gospeleve.html
-Thunder Perfect Mind,100,230,Gnostics,Other Nag Hammadi,https://www.earlychristianwritings.com/thunder.html
+"Thunder, Perfect Mind",100,230,Gnostics,Additional Nag Hammadi,https://www.earlychristianwritings.com/thunder.html
 Book of Elchasai,101,220,Other,Jewish/Christian,https://www.earlychristianwritings.com/elchasai.html
 Ignatius of Antioch,105,115,Church Fathers,Apostolic Fathers,https://www.earlychristianwritings.com/ignatius.html
 Polycarp to the Philippians,110,140,Church Fathers,Apostolic Fathers,https://www.earlychristianwritings.com/polycarp.html
@@ -70,13 +70,13 @@ Apology of Aristides,120,130,Church Fathers,Apologists,https://www.earlychristia
 Basilides,120,140,Gnostics,Quoted Authors,https://www.earlychristianwritings.com/basilides.html
 Naassene Fragment,120,140,Gnostics,Quoted Authors,https://www.earlychristianwritings.com/naassene.html
 Valentinus,120,160,Gnostics,Quoted Authors,https://www.earlychristianwritings.com/valentinus.html
-Apocryphon of John,120,180,Gnostics,Other Nag Hammadi,https://www.earlychristianwritings.com/apocryphonjohn.html
+Apocryphon of John,120,180,Gnostics,Additional Nag Hammadi,https://www.earlychristianwritings.com/apocryphonjohn.html
 Gospel of Mary,120,180,Gnostics,Dialogues with Jesus,https://www.earlychristianwritings.com/gospelmary.html
 Dialogue of the Savior,120,180,Gnostics,Dialogues with Jesus,https://www.earlychristianwritings.com/dialoguesavior.html
 Gospel of the Savior,120,180,Gnostics,Dialogues with Jesus,https://www.earlychristianwritings.com/gospelsavior.html
-2nd Apocalypse of James,120,180,Gnostics,Apocalypses,https://www.earlychristianwritings.com/apocalypsejames2.html
-Trimorphic Protennoia,120,180,Gnostics,Other Nag Hammadi,https://www.earlychristianwritings.com/trimorphic.html
-Gospel of Perfection,120,180,No Classification,No Classification,https://www.earlychristianwritings.com/perfection.html
+2nd Apocalypses of James,120,180,Gnostics,Apocalypses,https://www.earlychristianwritings.com/apocalypsejames2.html
+Trimorphic Protennoia,120,180,Gnostics,Additional Nag Hammadi,https://www.earlychristianwritings.com/trimorphic.html
+Gospel of Perfection,120,180,Apocrypha,Gospels,https://www.earlychristianwritings.com/perfection.html
 Genna Marias,120,200,Gnostics,Quoted Authors,https://www.earlychristianwritings.com/gennamarias.html
 Marcion,130,140,Gnostics,Quoted Authors,https://www.earlychristianwritings.com/marcion.html
 Aristo of Pella,130,150,Church Fathers,Quoted Authors,https://www.earlychristianwritings.com/marcion.html
@@ -91,35 +91,35 @@ Isidore,140,160,Gnostics,Quoted Authors,https://www.earlychristianwritings.com/i
 Fronto,140,170,Other,Pagan and Jewish,https://www.earlychristianwritings.com/fronto.html
 Infancy Gospel of James,140,170,Apocrypha,Gospels,https://www.earlychristianwritings.com/infancyjames.html
 Infancy Gospel of Thomas,140,170,Apocrypha,Gospels,https://www.earlychristianwritings.com/infancythomas.html
-Gospel of Truth,140,180,Gnostics,Other Nag Hammadi,https://www.earlychristianwritings.com/gospeltruth.html
+Gospel of Truth,140,180,Gnostics,Additional Nag Hammadi,https://www.earlychristianwritings.com/gospeltruth.html
 Martyrdom of Polycarp,150,160,Church Fathers,Apostolic Fathers,https://www.earlychristianwritings.com/martyrdompolycarp.html
 Justin Martyr,150,160,Church Fathers,Apologists,https://www.earlychristianwritings.com/justin.html
 Excerpts of Theodotus,150,180,Gnostics,Quoted Authors,https://www.earlychristianwritings.com/theodotus.html
 Heracleon,150,180,Gnostics,Quoted Authors,https://www.earlychristianwritings.com/heracleon.html
 Ascension of Isaiah,150,200,Other,Jewish/Christian,https://www.earlychristianwritings.com/ascension.html
-Interpretation of Knowledge,150,200,No Classification,No Classification,https://www.earlychristianwritings.com/interpretation.html
-Testimony of Truth,150,200,Gnostics,Other Nag Hammadi,https://www.earlychristianwritings.com/truth.html
+Interpretation of Knowledge,150,200,Gnostics,Additional Nag Hammadi,https://www.earlychristianwritings.com/interpretation.html
+Testimony of Truth,150,200,Gnostics,Additional Nag Hammadi,https://www.earlychristianwritings.com/truth.html
 Acts of Peter,150,200,Apocrypha,Apostolic Acts,https://www.earlychristianwritings.com/actspeter.html
 Acts of John,150,200,Apocrypha,Apostolic Acts,https://www.earlychristianwritings.com/actsjohn.html
 Acts of Paul,150,200,Apocrypha,Apostolic Acts,https://www.earlychristianwritings.com/actspaul.html
 Acts of Andrew,150,200,Apocrypha,Apostolic Acts,https://www.earlychristianwritings.com/actsandrew.html
 Acts of Peter and the Twelve,150,225,Apocrypha,Apostolic Acts,https://www.earlychristianwritings.com/actspetertwelve.html
 Book of Thomas the Contender,150,225,Apocrypha,Apostolic Acts,https://www.earlychristianwritings.com/contender.html
-Paraphrase of Shem,150,250,No Classification,No Classification,https://www.earlychristianwritings.com/shem.html
+Paraphrase of Shem,150,250,Gnostics,Additional Nag Hammadi,https://www.earlychristianwritings.com/shem.html
 Fifth and Sixth Books of Esra,150,250,Apocrypha,Martyrologies,https://www.earlychristianwritings.com/esra.html
-Authoritative Teaching,150,300,Gnostics,Other Nag Hammadi,https://www.earlychristianwritings.com/authoritative.html
-Coptic Apocalypse of Paul,150,300,Gnostics,Apocalypses,https://www.earlychristianwritings.com/nhlapocalypsepaul.html
-Prayer of the Apostle Paul,150,300,Gnostics,Other Nag Hammadi,https://www.earlychristianwritings.com/prayerpaul.html
-Discourse on the Eighth and Ninth,150,300,Gnostics,Other Nag Hammadi,https://www.earlychristianwritings.com/eighthninth.html
-Melchizedek,150,300,Gnostics,Other Nag Hammadi,https://www.earlychristianwritings.com/melchizedek.html
-Preaching of Paul,150,350,No Classification,No Classification,https://www.earlychristianwritings.com/preachingpaul.html
+Authoritative Teaching,150,300,Gnostics,Additional Nag Hammadi,https://www.earlychristianwritings.com/authoritative.html
+Coptic Apocalypses of Paul,150,300,Gnostics,Apocalypses,https://www.earlychristianwritings.com/nhlapocalypsepaul.html
+Prayer of the Apostle Paul,150,300,Gnostics,Additional Nag Hammadi,https://www.earlychristianwritings.com/prayerpaul.html
+Discourse on the Eighth and Ninth,150,300,Gnostics,Additional Nag Hammadi,https://www.earlychristianwritings.com/eighthninth.html
+Melchizedek,150,300,Gnostics,Additional Nag Hammadi,https://www.earlychristianwritings.com/melchizedek.html
+Preaching of Paul,150,350,Apocrypha,Quoted Authors,https://www.earlychristianwritings.com/preachingpaul.html
 Epistle to the Laodiceans,150,350,Apocrypha,Contested Epistles of Paul,https://www.earlychristianwritings.com/laodiceans.html
-Questions of Mary,150,350,No Classification,No Classification,https://www.earlychristianwritings.com/questionsmary.html
-Allogenese the Stranger,150,350,Gnostics,Other Nag Hammadi,https://www.earlychristianwritings.com/allogenes.html
-Hypsiphrone,150,350,No Classification,No Classification,https://www.earlychristianwritings.com/hypsiphrone.html
-Valentinian Exposition,150,350,Gnostics,Other Nag Hammadi,https://www.earlychristianwritings.com/valentinian.html
+Questions of Mary,150,350,Gnostics,Quoted Authors,https://www.earlychristianwritings.com/questionsmary.html
+"Allogenese, the Stranger",150,350,Gnostics,Additional Nag Hammadi,https://www.earlychristianwritings.com/allogenes.html
+Hypsiphrone,150,350,Gnostics,Additional Nag Hammadi,https://www.earlychristianwritings.com/hypsiphrone.html
+Valentinian Exposition,150,350,Gnostics,Additional Nag Hammadi,https://www.earlychristianwritings.com/valentinian.html
 Acts of Peter,150,350,Apocrypha,Apostolic Acts,https://www.earlychristianwritings.com/actpeter.html
-Concept of Our Great Power,150,360,No Classification,No Classification,https://www.earlychristianwritings.com/greatpower.html
+Concept of Our Great Power,150,360,Gnostics,Additional Nag Hammadi,https://www.earlychristianwritings.com/greatpower.html
 Acts of Pilate,150,400,Apocrypha,Gospels,https://www.earlychristianwritings.com/actspilate.html
 Anti-Marcionite Prologues,150,400,Other,Other,https://www.earlychristianwritings.com/antimarcion.html
 Dialogue Between John and Jesus,150,400,Apocrypha,Dialogues with Jesus,https://www.earlychristianwritings.com/dialoguejohnjesus.html
@@ -128,7 +128,7 @@ Claudius Apollinaris,160,180,Church Fathers,Quoted Authors,https://www.earlychri
 Apelles,160,180,Gnostics,Quoted Authors,https://www.earlychristianwritings.com/apelles.html
 Julius Cassianus,160,180,Gnostics,Quoted Authors,https://www.earlychristianwritings.com/cassianus.html
 Octavius of Minucius Felix,160,250,Church Fathers,Apologists,https://www.earlychristianwritings.com/octavius.html
-Acts of Carpus,161,180,No Classification,No Classification,https://www.earlychristianwritings.com/carpus.html
+"Acts of Carpus, Papylus, and Agathonice",161,180,Church Fathers,Martyrologies,https://www.earlychristianwritings.com/carpus.html
 Melito of Sardis,165,175,Church Fathers,Quoted Authors,https://www.earlychristianwritings.com/melito.html
 Hegesippus,165,175,Church Fathers,Quoted Authors,https://www.earlychristianwritings.com/hegesippus.html
 Dionysius of Corinth,165,175,Church Fathers,Quoted Authors,https://www.earlychristianwritings.com/dionysius.html
@@ -137,9 +137,9 @@ Marcus Aurelius,167,167,Other,Pagan and Jewish,https://www.earlychristianwriting
 Diatessaron,170,175,Apocrypha,Gospels,https://www.earlychristianwritings.com/diatessaron.html
 Dura-Europos Gospel Harmony,170,200,Apocrypha,Gospel Fragments,https://www.earlychristianwritings.com/dura.html
 Muratorian Canon,170,200,Other,Other,https://www.earlychristianwritings.com/muratorian.html
-Treatise on the Resurrection,170,200,Gnostics,Other Nag Hammadi,https://www.earlychristianwritings.com/treatiseres.html
+Treatise on the Resurrection,170,200,Gnostics,Additional Nag Hammadi,https://www.earlychristianwritings.com/treatiseres.html
 Epistle of Peter to Philip,170,220,Gnostics,Apostolic Acts,https://www.earlychristianwritings.com/petertophilip.html
-Thought of Norea,170,230,Gnostics,Other Nag Hammadi,https://www.earlychristianwritings.com/norea.html
+Thought of Norea,170,230,Gnostics,Additional Nag Hammadi,https://www.earlychristianwritings.com/norea.html
 Athenagoras of Athens,175,180,Church Fathers,Apologists,https://www.earlychristianwritings.com/athenagoras.html
 Irenaeus of Lyons,175,185,Church Fathers,Apostolic Fathers,https://www.earlychristianwritings.com/irenaeus.html
 Rhodon,175,185,Church Fathers,Quoted Authors,https://www.earlychristianwritings.com/rhodon.html
@@ -152,63 +152,63 @@ Theophilus of Antioch,180,185,Church Fathers,Apologists,https://www.earlychristi
 Acts of Apollonius,180,185,Apocrypha,Martyrologies,https://www.earlychristianwritings.com/actsapollonius.html
 Bardesanes,180,220,Church Fathers,Quoted Authors,https://www.earlychristianwritings.com/bardesanes.html
 Kerygmata Petrou,180,220,Other,Other,https://www.earlychristianwritings.com/kerygmatapetrou.html
-Hippolytus of Rome,180,230,Church Fathers,Apostolic Authors,https://www.earlychristianwritings.com/hippolytus.html
-Sentences of Sextus,180,230,No Classification,No Classification,https://www.earlychristianwritings.com/sextus.html
-1st Apocalypse of James,180,250,Gnostics,Other Nag Hammadi,https://www.earlychristianwritings.com/apocalypsejames1.html
-Gospel of Philip,180,250,Gnostics,Other Nag Hammadi,https://www.earlychristianwritings.com/gospelphilip.html
-Clement of Alexandria,182,202,Church Fathers,Apostolic Authors,https://www.earlychristianwritings.com/clement.html
+Hippolytus of Rome,180,230,Church Fathers,Apostolic Fathers,https://www.earlychristianwritings.com/hippolytus.html
+Sentences of Sextus,180,230,Gnostics,Additional Nag Hammadi,https://www.earlychristianwritings.com/sextus.html
+1st Apocalypses of James,180,250,Gnostics,Additional Nag Hammadi,https://www.earlychristianwritings.com/apocalypsejames1.html
+Gospel of Philip,180,250,Gnostics,Additional Nag Hammadi,https://www.earlychristianwritings.com/gospelphilip.html
+Clement of Alexandria,182,202,Church Fathers,Apostolic Fathers,https://www.earlychristianwritings.com/clement.html
 Maximus of Jerusalem,185,195,Church Fathers,Quoted Authors,https://www.earlychristianwritings.com/maximus.html
 Polycrate of Ephesus,185,195,Church Fathers,Quoted Authors,https://www.earlychristianwritings.com/polycrates.html
 Talmud,188,217,Other,Pagan and Jewish,https://www.earlychristianwritings.com/talmud.html
 Victor I,189,199,Church Fathers,Quoted Authors,https://www.earlychristianwritings.com/victor.html
 Pantaenus,190,210,Church Fathers,Quoted Authors,https://www.earlychristianwritings.com/pantaenus.html
-Second Discourse of Great Seth,190,230,Gnostics,Other Nag Hammadi,https://www.earlychristianwritings.com/greatseth.html
+Second Discourse of Great Seth,190,230,Gnostics,Additional Nag Hammadi,https://www.earlychristianwritings.com/greatseth.html
 Anonymous Anti-Montanist,193,193,Church Fathers,Quoted Authors,https://www.earlychristianwritings.com/antimontanist.html
 Inscription of Abercius,193,216,Other,Other,https://www.earlychristianwritings.com/abercius.html
-Tertullian,197,220,Church Fathers,Apostolic Authors,https://www.earlychristianwritings.com/tertullian.html
+Tertullian,197,220,Church Fathers,Apostolic Fathers,https://www.earlychristianwritings.com/tertullian.html
 Seraphion of Antioch,200,210,Church Fathers,Quoted Authors,https://www.earlychristianwritings.com/serapion.html
 Apollonius,200,210,Church Fathers,Quoted Authors,https://www.earlychristianwritings.com/apollonius.html
 Caius,200,220,Church Fathers,Quoted Authors,https://www.earlychristianwritings.com/caius.html
 Philostratus,200,220,Church Fathers,Pagan and Jewish,https://www.earlychristianwritings.com/philostratus.html
 Acts of Thomas,200,225,Apocrypha,Apostolic Acts,https://www.earlychristianwritings.com/actsthomas.html
-Ammonius of Alexandria,200,230,No Classification,No Classification,https://www.earlychristianwritings.com/ammonius.html
-Zostrianos,200,230,No Classification,No Classification,https://www.earlychristianwritings.com/zostrianos.html
-Three Steles of Seth,200,230,No Classification,No Classification,https://www.earlychristianwritings.com/steles.html
-Exegesis on the Soul,200,230,No Classification,No Classification,https://www.earlychristianwritings.com/exegesisonsoul.html
+Ammonius of Alexandria,200,230,Church Fathers,Quoted Authors,https://www.earlychristianwritings.com/ammonius.html
+Zostrianos,200,230,Gnostics,Additional Nag Hammadi,https://www.earlychristianwritings.com/zostrianos.html
+Three Steles of Seth,200,230,Gnostics,Additional Nag Hammadi,https://www.earlychristianwritings.com/steles.html
+Exegesis on the Soul,200,230,Gnostics,Additional Nag Hammadi,https://www.earlychristianwritings.com/exegesisonsoul.html
 Didascalia,200,250,Apocrypha,Other,https://www.earlychristianwritings.com/didascalia.html
 Books of Jeu,200,250,Gnostics,Dialogues with Jesus,https://www.earlychristianwritings.com/jeu.html
 Pistis Sophia,200,300,Gnostics,Dialogues with Jesus,https://www.earlychristianwritings.com/pistis.html
-Tripartite Tractate,200,300,No Classification,No Classification,https://www.earlychristianwritings.com/tripartite.html
-Hypostasis of the Archons,200,300,No Classification,No Classification,https://www.earlychristianwritings.com/archons.html
-Prayer of Thanksgiving,200,300,No Classification,No Classification,https://www.earlychristianwritings.com/thanksgiving.html
-Coptic Apocalypse of Peter,200,300,Gnostics,Apocalypses,https://www.earlychristianwritings.com/nhlapocalypsepeter.html
-Apostolic Church Order,200,330,No Classification,No Classification,https://www.earlychristianwritings.com/churchorder.html
-Holy Book of the Great Invisible Spirit,200,350,No Classification,No Classification,https://www.earlychristianwritings.com/greatspirit.html
-Monarchian Prologues,200,450,No Classification,No Classification,https://www.earlychristianwritings.com/monarchianprologues.html
+Tripartite Tractate,200,300,Gnostics,Additional Nag Hammadi,https://www.earlychristianwritings.com/tripartite.html
+Hypostasis of the Archons,200,300,Gnostics,Additional Nag Hammadi,https://www.earlychristianwritings.com/archons.html
+Prayer of Thanksgiving,200,300,Gnostics,Additional Nag Hammadi,https://www.earlychristianwritings.com/thanksgiving.html
+Coptic Apocalypses of Peter,200,300,Gnostics,Apocalypses,https://www.earlychristianwritings.com/nhlapocalypsepeter.html
+Apostolic Church Order,200,330,Church Fathers,Apostolic Fathers,https://www.earlychristianwritings.com/churchorder.html
+Holy Book of the Great Invisible Spirit,200,350,Gnostics,Additional Nag Hammadi,https://www.earlychristianwritings.com/greatspirit.html
+Monarchian Prologues,200,450,Apocrypha,Gospel Fragments,https://www.earlychristianwritings.com/monarchianprologues.html
 Acts of Perpetua and Felicitas,203,203,Apocrypha,Martyrologies,https://www.earlychristianwritings.com/actsperpetua.html
-Origen,203,250,Church Fathers,Apostolic Authors,https://www.earlychristianwritings.com/origen.html
-Lucian of Antioch,210,245,No Classification,No Classification,https://www.earlychristianwritings.com/lucianantioch.html
-Callistus,217,222,No Classification,No Classification,https://www.earlychristianwritings.com/callistus.html
-Dionysius of Alexandria,230,265,No Classification,No Classification,https://www.earlychristianwritings.com/dionysiusalexandria.html
-Firmillian of Caesarea,230,268,No Classification,No Classification,https://www.earlychristianwritings.com/firmilian.html
-Commodian,240,260,No Classification,No Classification,https://www.earlychristianwritings.com/commodian.html
-Cyprian,246,258,No Classification,No Classification,https://www.earlychristianwritings.com/cyprian.html
-Gospel of Mani,250,274,No Classification,No Classification,https://www.earlychristianwritings.com/gospelmani.html
-Teachings of Silvanus,250,300,No Classification,No Classification,https://www.earlychristianwritings.com/silvanus.html
-Excerpt from the Perfect Discourse,250,300,No Classification,No Classification,https://www.earlychristianwritings.com/perfectdiscourse.html
-Coptic Apocalypse of Elijah,250,350,No Classification,No Classification,https://www.earlychristianwritings.com/copticelijah.html
-Apocalypse of Paul,250,400,No Classification,No Classification,https://www.earlychristianwritings.com/apocalypsepaul.html
-Pope Cornelius,251,253,No Classification,No Classification,https://www.earlychristianwritings.com/cornelius.html
-Novatian,251,158,No Classification,No Classification,https://www.earlychristianwritings.com/novatian.html
-Pope Stephen,254,257,No Classification,No Classification,https://www.earlychristianwritings.com/stephen.html
-Dionysius of Rome,259,268,No Classification,No Classification,https://www.earlychristianwritings.com/dionysiusrome.html
+Origen,203,250,Church Fathers,Apostolic Fathers,https://www.earlychristianwritings.com/origen.html
+Lucian of Antioch,210,245,Church Fathers,Quoted Authors,https://www.earlychristianwritings.com/lucianantioch.html
+Callistus,217,222,Church Fathers,Quoted Authors,https://www.earlychristianwritings.com/callistus.html
+Dionysius of Alexandria,230,265,Church Fathers,Apostolic Fathers,https://www.earlychristianwritings.com/dionysiusalexandria.html
+Firmillian of Caesarea,230,268,Church Fathers,Apostolic Fathers,https://www.earlychristianwritings.com/firmilian.html
+Commodian,240,260,Church Fathers,Apostolic Fathers,https://www.earlychristianwritings.com/commodian.html
+Cyprian,246,258,Church Fathers,Apostolic Fathers,https://www.earlychristianwritings.com/cyprian.html
+Gospel of Mani,250,274,Gnostics,Gospels,https://www.earlychristianwritings.com/gospelmani.html
+Teachings of Silvanus,250,300,Gnostics,Additional Nag Hammadi,https://www.earlychristianwritings.com/silvanus.html
+Excerpt from the Perfect Discourse,250,300,Gnostics,Quoted Authors,https://www.earlychristianwritings.com/perfectdiscourse.html
+Coptic Apocalypses of Elijah,250,350,Apocrypha,Apocalypses,https://www.earlychristianwritings.com/copticelijah.html
+Apocalypses of Paul,250,400,Apocrypha,Apocalypses,https://www.earlychristianwritings.com/apocalypsepaul.html
+Pope Cornelius,251,253,Church Fathers,Apostolic Fathers,https://www.earlychristianwritings.com/cornelius.html
+Novatian,251,158,Church Fathers,Apostolic Fathers,https://www.earlychristianwritings.com/novatian.html
+Pope Stephen,254,257,Church Fathers,Apostolic Fathers,https://www.earlychristianwritings.com/stephen.html
+Dionysius of Rome,259,268,Church Fathers,Quoted Authors,https://www.earlychristianwritings.com/dionysiusrome.html
 Theognostus,260,280,Church Fathers,Quoted Authors,https://www.earlychristianwritings.com/theognostus.html
 Gregory Thaumaturgus,265,282,Church Fathers,Apostolic Fathers,https://www.earlychristianwritings.com/gregory.html
 Pope Felix,269,274,Church Fathers,Apostolic Fathers,https://www.earlychristianwritings.com/felix.html
 Victorinus of Pettau,270,310,Church Fathers,Apostolic Fathers,https://www.earlychristianwritings.com/victorinus.html
 Methodius,270,312,Church Fathers,Apostolic Fathers,https://www.earlychristianwritings.com/methodius.html
-Marsanes,270,330,Gnostics,Other Nag Hammadi,https://www.earlychristianwritings.com/marsanes.html
-On the Origin of the World,270,330,Gnostics,Other Nag Hammadi,https://www.earlychristianwritings.com/originworld.html
+Marsanes,270,330,Gnostics,Additional Nag Hammadi,https://www.earlychristianwritings.com/marsanes.html
+On the Origin of the World,270,330,Gnostics,Additional Nag Hammadi,https://www.earlychristianwritings.com/originworld.html
 De Recta in Deum Fide,270,350,Church Fathers,Apologists,https://www.earlychristianwritings.com/derectaindeumfide.html
 Hesychius,280,300,Church Fathers,Quoted Authors,https://www.earlychristianwritings.com/hesychius.html
 Pierius,280,310,Church Fathers,Quoted Authors,https://www.earlychristianwritings.com/pierius.html
@@ -216,10 +216,10 @@ Pamphilus of Caesarea,280,310,Church Fathers,Apologists,https://www.earlychristi
 Arnobius of Sicca,297,310,Church Fathers,Apologists,https://www.earlychristianwritings.com/arnobius.html
 Peter of Alexandria,300,310,Church Fathers,Apostolic Fathers,https://www.earlychristianwritings.com/peteralexandria.html
 Pseudo-Clementine Homilies,300,320,Apocrypha,Apostolic Fathers,https://www.earlychristianwritings.com/clementinehomilies.html
-Eusebius of Caesarea,300,340,Church Fathers,Apostolic Authors,https://www.earlychristianwritings.com/eusebius.html
+Eusebius of Caesarea,300,340,Church Fathers,Apostolic Fathers,https://www.earlychristianwritings.com/eusebius.html
 Manichean Acts of Leucius Charinus,300,350,Gnostics,Quoted Authors,https://www.earlychristianwritings.com/leucius.html
 Correspondence of Paul and Seneca,300,390,Apocrypha,Pseudonymous Epistles of Paul,https://www.earlychristianwritings.com/paulseneca.html
-Apocalypse of Thomas,300,400,Apocrypha,Apocalypse,https://www.earlychristianwritings.com/apocalypsethomas.html
+Apocalypses of Thomas,300,400,Apocrypha,Apocalypses,https://www.earlychristianwritings.com/apocalypsethomas.html
 Freer Logion,300,400,Apocrypha,Gospel Fragments,https://www.earlychristianwritings.com/freerlogion.html
 Gospel of Gamaliel,300,600,Apocrypha,Gospels,https://www.earlychristianwritings.com/gospelgamaliel.html
 Lactantius,303,316,Church Fathers,Apologists,https://www.earlychristianwritings.com/lactantius.html
