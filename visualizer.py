@@ -4,6 +4,26 @@ from dash import dcc, html
 from dash.dependencies import Input, Output
 import plotly.graph_objs as go
 
+
+def get_color(category):
+    if category == "New Testament":
+        return "rosybrown"  # #4682B4
+
+    elif category == "Other":
+        return "steelblue"  # #BC8F8F
+
+    elif category == "Gnostics":
+        return "mediumseagreen"  # #3CB371
+
+    elif category == "Church Fathers":
+        return "indianred"  # #CD5C5C
+
+    elif category == "Apocrypha":
+        return "darkkhaki"  # #BDB76
+
+    else:
+        return "lightgray"  # fallback for unknown categories
+
 def load_data(path="data.csv"):
     data = pd.read_csv(path, header=0, sep=",")
     return data
@@ -23,6 +43,9 @@ def make_timeline_figure(df, selected_categories, selected_subcategories, year_r
     fig = go.Figure()
 
     for _, row in filtered.iterrows():
+
+        color = get_color(row["category"])
+
         custom_link = row["link"] if row["link"] != "Filler" else ""
         hover = (
             f"{row['source']} ({row['early']})"
@@ -35,7 +58,7 @@ def make_timeline_figure(df, selected_categories, selected_subcategories, year_r
             x=x_vals,
             y=[row["source"]] * 2,
             mode="lines",
-            line=dict(width=10, color="steelblue", shape="spline"),
+            line=dict(width=10, color=color, shape="spline"),
             hovertext=hover,
             hoverinfo="text",
             name=row["source"],
